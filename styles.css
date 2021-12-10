@@ -1,6 +1,7 @@
 body {
     background-color: #62d9fb;
 }
+
 .counter-body {
     margin: auto;
     width: 30%;
@@ -8,6 +9,7 @@ body {
     padding: 10px;
     text-align: center;
 }
+
 .counter-sum {
     text-align: center;
 }
