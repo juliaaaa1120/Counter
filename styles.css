@@ -2,11 +2,27 @@ body {
     background-color: #62d9fb;
 }
 
+label[id="number1"], label[id="number2"] {
+    width: 50px;
+    display: inline-block;
+}
+
+button {
+    height:30px;
+    width:30px;
+}
+
 .counter-body {
     margin: auto;
-    width: 30%;
+    width: 200px;
     border: 3px groove #b8b8b8fd;
     padding: 10px;
+}
+
+.counter-part {
+    margin: auto;
+    width: auto;
+    padding: 5px 10px;
     text-align: center;
 }
 
